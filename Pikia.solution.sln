@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikia.APIs", "Pikia.APIs\Pikia.APIs.csproj", "{5FA487FF-13F4-4DAC-8A16-E3A458D9C860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikia.Core", "Pikia.Core\Pikia.Core.csproj", "{3B2E7A5B-58F9-4BB8-A7F0-670C5CB4DE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikia.Repository", "Pikia.Repository\Pikia.Repository.csproj", "{AB5C0831-2C01-4377-9BDA-4CB62A95552B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pikia.Service", "Pikia.Service\Pikia.Service.csproj", "{F00F3C28-B6F0-4713-8A17-FB0394A921EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA487FF-13F4-4DAC-8A16-E3A458D9C860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA487FF-13F4-4DAC-8A16-E3A458D9C860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA487FF-13F4-4DAC-8A16-E3A458D9C860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA487FF-13F4-4DAC-8A16-E3A458D9C860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B2E7A5B-58F9-4BB8-A7F0-670C5CB4DE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B2E7A5B-58F9-4BB8-A7F0-670C5CB4DE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B2E7A5B-58F9-4BB8-A7F0-670C5CB4DE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B2E7A5B-58F9-4BB8-A7F0-670C5CB4DE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5C0831-2C01-4377-9BDA-4CB62A95552B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5C0831-2C01-4377-9BDA-4CB62A95552B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5C0831-2C01-4377-9BDA-4CB62A95552B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5C0831-2C01-4377-9BDA-4CB62A95552B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F00F3C28-B6F0-4713-8A17-FB0394A921EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F00F3C28-B6F0-4713-8A17-FB0394A921EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F00F3C28-B6F0-4713-8A17-FB0394A921EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F00F3C28-B6F0-4713-8A17-FB0394A921EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F477C6E6-9E54-484F-97F5-34863C93C3BF}
+	EndGlobalSection
+EndGlobal
